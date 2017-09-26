@@ -1,3 +1,6 @@
+***THIS PACKAGE HAS BEEN DEPRECATED - THERE IS NO NEED TO USE `idyll-component`, INSTEAD USE `React.Component` DIRECTLY***
+
+
 # idyll-component
 Extensible component to be used in idyll projects
 
